@@ -1,0 +1,102 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "pokemonList": [
+    {
+      "charName": "Fire Mon",
+      "nickName": "Super Fire",
+      "ability": "Fire",
+      "superPower": "",
+      "color": "",
+      "habitat": "",
+      "id": 1
+    },
+    {
+      "charName": "water pokemon",
+      "nickName": "super water",
+      "ability": "swim",
+      "superPower": "Punch",
+      "color": "Purple",
+      "habitat": "Ocean",
+      "id": 2
+    },
+    {
+      "charName": "earth pokemon",
+      "nickName": "super earth",
+      "ability": "jump",
+      "superPower": "Punch",
+      "color": "Orange",
+      "habitat": "Land",
+      "id": 3
+    },
+    {
+      "charName": "land pokemon",
+      "nickName": "super land",
+      "ability": "flash punch",
+      "superPower": "Flash",
+      "color": "Green",
+      "habitat": "Forest",
+      "id": 4
+    },
+    {
+      "charName": "water",
+      "nickName": "super water",
+      "ability": "jump water",
+      "superPower": "Water",
+      "color": "Blue",
+      "habitat": "Ocean",
+      "id": 5
+    },
+    {
+      "charName": "forest pokemon",
+      "nickName": "forest man",
+      "ability": "earth quake",
+      "superPower": "Wind",
+      "color": "Orange",
+      "habitat": "Forest",
+      "id": 6
+    },
+    {
+      "charName": "Jhony",
+      "nickName": "Jhony Dog",
+      "ability": "Fight",
+      "superPower": "Kick",
+      "color": "Purple",
+      "habitat": "Land",
+      "id": 7
+    },
+    {
+      "charName": "Fish",
+      "nickName": "The fish",
+      "ability": "swim",
+      "superPower": "Water",
+      "color": "Blue",
+      "habitat": "Ocean",
+      "id": 8
+    },
+    {
+      "charName": "volcano",
+      "nickName": "volcano fire",
+      "ability": "shoot",
+      "superPower": "Fire",
+      "color": "Purple",
+      "habitat": "Volcano Mountain",
+      "id": 9
+    }
+  ]
+}
